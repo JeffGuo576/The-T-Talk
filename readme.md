@@ -4,7 +4,7 @@ The T Talk is a website that allows users to share their thoughts, concerns, and
 
 
 
-##Terminal Steps to run the flask website:
+## Terminal Steps to run the flask website:
 
 1. export FLASK_APP=hello
 2. export FLASK_APP=development
